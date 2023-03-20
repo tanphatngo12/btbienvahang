@@ -22,6 +22,7 @@ namespace bt6
             Console.WriteLine("Ngay hom qua la {0}/{1}/{2}", ngayhomqua, thang, nam);
             Console.WriteLine("Ngay hom nay la {0}/{1}/{2}", ngay, thang, nam);
             Console.WriteLine("Ngay mai la {0}/{1}/{2}", ngaymai, thang, nam);
+            Console.WriteLine("<----------------------------------->");
         }
     }
 }
